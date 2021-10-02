@@ -70,7 +70,6 @@ sections:
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
-    subtitle: What our Clients say
     col_number: three
     testimonials:
       - author: Ted Lasso
