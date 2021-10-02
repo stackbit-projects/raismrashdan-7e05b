@@ -79,7 +79,7 @@ sections:
         position: 'CEO and founder, A Company'
         content: >-
           Top bloke. Has a banging left foot, reads the field well and threads
-          passes through like Busquets himself
+          passes like Iniesta himself.
       - author: Dianne Ameter
         avatar: images/dianne-ameter.jpg
         avatar_alt: Dianne Ameter's photo
