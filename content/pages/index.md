@@ -90,7 +90,7 @@ sections:
       - label: Let's start
         url: /contact
         style: button
-    image: /images/cta.svg
+    image: /images/thumbs-18cd736b.png
     image_alt: Illustration
     bg_color: light
 layout: advanced
