@@ -79,13 +79,6 @@ sections:
           Top bloke. Has a banging left foot, reads the field well and threads
           passes like Iniesta himself.
         avatar: /images/Screen Shot 2021-10-02 at 17.56.23.png
-      - author: Dianne Ameter
-        avatar: images/dianne-ameter.jpg
-        avatar_alt: Dianne Ameter's photo
-        position: 'CTO, Another Company'
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
     subtitle: "Anecdotes from the \U0001F347vine"
   - type: cta_section
     section_id: cta
