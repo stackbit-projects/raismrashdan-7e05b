@@ -69,7 +69,7 @@ sections:
           - Product design
   - type: testimonials_section
     section_id: testimonials
-    title: Testimonials
+    title: Testimonials sd
     col_number: three
     testimonials:
       - author: Ted Lasso
