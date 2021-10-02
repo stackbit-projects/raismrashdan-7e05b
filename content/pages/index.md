@@ -10,7 +10,7 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     title: Projects
-    subtitle: Explore case studies
+    subtitle: Explore past projecs
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
