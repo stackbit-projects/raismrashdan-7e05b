@@ -79,6 +79,7 @@ sections:
         content: >-
           Top bloke. Has a banging left foot, reads the field well and threads
           passes like Iniesta himself.
+        avatar: /images/Screen Shot 2021-10-02 at 17.56.23.png
       - author: Dianne Ameter
         avatar: images/dianne-ameter.jpg
         avatar_alt: Dianne Ameter's photo
