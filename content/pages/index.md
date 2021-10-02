@@ -74,7 +74,6 @@ sections:
     col_number: three
     testimonials:
       - author: Desmond Eagle
-        avatar: images/desmond-eagle.jpg
         avatar_alt: Desmond Eagle's photo
         position: 'CEO and founder, A Company'
         content: >-
