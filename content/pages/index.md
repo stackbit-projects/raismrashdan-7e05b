@@ -5,10 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: "G'Day\_\U0001F44B"
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: "I'm Rais! (pronounced \U0001F359). Passionate in reimagining experiences through combining data and empathy. [Let's talk](/contact/).\n"
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
