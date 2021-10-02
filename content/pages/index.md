@@ -75,7 +75,7 @@ sections:
     testimonials:
       - author: Desmond Eagle
         avatar_alt: Desmond Eagle's photo
-        position: ', AFC Richmond'
+        position: 'Head Coach, AFC Richmond'
         content: >-
           Top bloke. Has a banging left foot, reads the field well and threads
           passes like Iniesta himself.
