@@ -86,7 +86,7 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-    subtitle: Anecdotes from the grape
+    subtitle: Anecdotes from the vine
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
