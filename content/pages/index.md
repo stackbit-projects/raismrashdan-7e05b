@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: "G'Day\_\U0001F44B"
-    content: "I'm Rais! (pronounced \U0001F359). Passionate in reimagining experiences through combining data and empathy. [Let's talk](/contact/).\n"
+    content: "I'm Rais! (pronounced \U0001F359).\n\nPassionate in reimagining experiences through combining data and empathy. [Let's talk](/contact/).\n"
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
