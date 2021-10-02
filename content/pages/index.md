@@ -84,9 +84,8 @@ sections:
     section_id: cta
     title: Let’s Chat!
     content: >
-      If you love tech products, user behaviour or just want to shoot the breeze
-      about the latest shiny thing on Product Hunt, say hello at
-      raism@student.unimelb.edu.au
+      If you love tech products, user behaviour or the latest shiny thing on
+      Product Hunt, say hello at raism@student.unimelb.edu.au
     actions:
       - label: Let's start
         url: /contact
