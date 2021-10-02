@@ -73,7 +73,7 @@ sections:
     subtitle: What our Clients say
     col_number: three
     testimonials:
-      - author: Desmond Eagle
+      - author: Ted Lasso
         avatar_alt: Desmond Eagle's photo
         position: 'Head Coach, AFC Richmond'
         content: >-
