@@ -82,7 +82,7 @@ sections:
     subtitle: "Anecdotes from the \U0001F347vine"
   - type: cta_section
     section_id: cta
-    title: Let’s Work Together!
+    title: Let’s Chat!
     content: >-
       Say hello at [email@example.com](mailto:email@example.com) or tell us more
       about your project by getting started below.
