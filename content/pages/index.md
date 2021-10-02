@@ -9,7 +9,7 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
-    title: Recent Work
+    title: Projects
     subtitle: Explore case studies
     projects_number: 6
     view_all_label: View All
