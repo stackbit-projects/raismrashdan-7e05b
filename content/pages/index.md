@@ -75,7 +75,7 @@ sections:
     testimonials:
       - author: Desmond Eagle
         avatar_alt: Desmond Eagle's photo
-        position: 'CEO and founder, AFC Richmond'
+        position: ', AFC Richmond'
         content: >-
           Top bloke. Has a banging left foot, reads the field well and threads
           passes like Iniesta himself.
