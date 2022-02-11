@@ -11,7 +11,7 @@ sections:
     layout_style: tiles
     title: Projects
     subtitle: Explore past projecs
-    projects_number: 4
+    projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
   - type: testimonials_section
