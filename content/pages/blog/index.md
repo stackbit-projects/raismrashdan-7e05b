@@ -1,5 +1,5 @@
 ---
-title: Journal
+title: The Minutia Journal
 subtitle: >-
   My pet peeve is fluffy, generic advice. Network more, practice communication
   skills. Why, how, with whom, in what language, at what time of day, what
