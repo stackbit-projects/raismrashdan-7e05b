@@ -1,6 +1,9 @@
 ---
 title: A Conscious Career
-subtitle: lorem-ipsum
+subtitle: >-
+  Spend the time to consciously think about your next pursuit. Who you are, what
+  you want. Understanding this will help you find an environment that suits you
+  best.
 date: '2022-02-11'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
