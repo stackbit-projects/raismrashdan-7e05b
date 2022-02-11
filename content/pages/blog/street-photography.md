@@ -44,7 +44,7 @@ layout: post
 ---
 ### TL;DR:
 
-Spend the time to **consciously** think about your career. What you want, and how an organisation aligns to that.
+Spend the time to **consciously** think about your next pursuit. Who you are, what you want. Understanding this will help you find an environment that suits you best.
 
 ### ABOUT THIS BLOG
 
