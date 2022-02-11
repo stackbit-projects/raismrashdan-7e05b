@@ -31,6 +31,8 @@ A third of your life will be spent at work. It’s the biggest investment you’
 
 Some of my friends spend hours reading through company financials to effectively invest their salaries. I’d rather spend that time ensuring I’m working for a cause that aligns with my values, alongside incredible people, where I’m constantly growing.
 
+![](https://images.unsplash.com/photo-1510034141778-a4d065653d92?ixlib=rb-1.2.1\&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&auto=format\&fit=crop\&w=1000\&q=80)
+
 # Top performers are conscious
 
 In interacting and watching videos of top students who get accepted in top-end Universities, I noticed their conscious decision making in accepting (or declining!) an offer. They take the time to consider whether a particular environment would set them up for success. Contrast that with someone who simply accepts the first offer which comes their way (Me!).
