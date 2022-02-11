@@ -42,9 +42,11 @@ seo:
       relativeUrl: true
 layout: post
 ---
-### TL;DR: Spend the time to **consciously** think about your career. What you want, and how an organisation aligns to that.
+### TL;DR:
 
-###### ABOUT THIS BLOG
+Spend the time to **consciously** think about your career. What you want, and how an organisation aligns to that.
+
+### ABOUT THIS BLOG
 
 My pet peeve is fluffy, generic advice. *Network more, practice communication skills.*
 
