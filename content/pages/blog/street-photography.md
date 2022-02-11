@@ -9,7 +9,7 @@ thumb_image_alt: White concrete building
 image: /images/photo-1502444330042-d1a1ddf9bb5b.jpeg
 image_alt: White concrete building
 seo:
-  title: Why consciously choosing a team which is a good fit for you important?
+  title: A conscious career
   description: >-
     Spend the time to consciously think about your next pursuit. Who you are,
     what you want. Understanding this will help you find an environment that
