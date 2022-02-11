@@ -9,7 +9,7 @@ thumb_image_alt: White concrete building
 image: /images/photo-1502444330042-d1a1ddf9bb5b.jpeg
 image_alt: White concrete building
 seo:
-  title: Understanding Street Photography
+  title: Why consciously choosing a team which is a good fit for you important?
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt
