@@ -15,7 +15,11 @@ seo:
     What do you want?. Understanding this will help you find an environment that
     suits you best.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: A Conscious Career
+      keyName: property
+      relativeUrl: true
 layout: post
 ---
 ### ABOUT THIS BLOG
