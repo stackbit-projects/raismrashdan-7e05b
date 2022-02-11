@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: A Conscious Career
 subtitle: lorem-ipsum
 date: '2022-02-11'
 thumb_image_alt: lorem-ipsum
