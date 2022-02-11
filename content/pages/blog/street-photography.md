@@ -1,5 +1,5 @@
 ---
-title: Understanding Street Photography
+title: Why consciously choosing a team which is a good fit for you important?
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
