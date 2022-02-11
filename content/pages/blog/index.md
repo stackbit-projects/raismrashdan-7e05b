@@ -6,7 +6,7 @@ subtitle: >-
   vitamins must I ingest? These are the questions I seek, and discuss in my
   blog. The minutia. The nitty gritty.
 hide_title: false
-col_number: three
+col_number: two
 seo:
   title: Journal
   description: This is the journal page
