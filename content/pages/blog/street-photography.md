@@ -6,7 +6,7 @@ excerpt: >-
 date: '2021-01-05'
 thumb_image: images/post-4-thumb.jpg
 thumb_image_alt: White concrete building
-image: images/post-4.jpg
+image: /images/photo-1502444330042-d1a1ddf9bb5b.jpeg
 image_alt: White concrete building
 seo:
   title: Understanding Street Photography
