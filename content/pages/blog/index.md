@@ -3,8 +3,8 @@ title: The Minutia Journal
 subtitle: >-
   My pet peeve is fluffy, generic advice. Network more, practice communication
   skills. Why, how, with whom, in what language, at what time of day, what
-  vitamins must I ingest? These are the questions I seek, and discuss in my
-  blog. The minutia. The nitty gritty.
+  vitamins must I ingest? These are the questions I seek, and want to discuss.
+  The minutia. The nitty gritty.
 hide_title: false
 col_number: two
 seo:
