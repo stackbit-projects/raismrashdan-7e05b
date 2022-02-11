@@ -12,12 +12,34 @@ seo:
   extra: []
 layout: post
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+# **Why?**
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+A good interaction with a line manager gives you an incredible advantage. These include:
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+*   Your resume goes to the top of the pile.  A hiring manager’s has to balance their time-consuming day activities as *as well as* looking over a heap of resumes. Being able to shortlist one extra resume makes it easy for them. As a general rule, try to understand other people's perspectives (the line manager in this instance), and make their life as easy as possible. All whilst getting what you want!
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+*   You don't waste your time (and theirs). You'll get a sense of what they're *really* looking for in the role and potentially your future boss. It's best to learn that from the get-go, as opposed to further down the application process timeline. That'll help you narrow down your job-hunting prospects
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   Get insight into what the hiring manager's looking for; what'd make an ideal candidate, and what wouldn't? You won't find these secrets hiding in the job description.
+
+# **How?**
+
+Communicate who you are and what you’re looking for, clearly. Practice your “sales pitch" with peers: why you want this role, what's your unique journey which will make you a great fit for the role. See Conscious \*Link\*
+
+Seek to understand the role in its entirety and determine whether the role aligns with who you are, and what you're looking for.
+
+Ask what a strong candidate would look like. Ask what a weak candidate would look like. If you're up for it, be direct and ask what failed interviewers were missing in their skillset.
+
+# **Understanding the role**
+
+What's the main paint point the role solves. I always ask that on first talking to a hiring manager. Chances are, the job ad was written by HR, and it might not truly encompass the hiring manager's vision.
+
+The hiring managers and recruiters I cold-called were very impressed when asked this question. Most interviewers would jump into the application process without *truly* understanding what the role entails. Don’t assume the job ad is the source of truth.
+
+As a junior in Product (transitioning from Civil Engineering), I asked this line of questioning alongside my first (outlined above):
+
+*   Is the Product Analyst role designed to support the PM to provide Analysis in developing new products?
+
+*   Is the Product Analyst role new? Is it part of a new Product team whereby the organisation is exploring new frontiers?
+
+*   Does this position already exist? Is this role a matter of increasing resources to scale the pre-existing team?
