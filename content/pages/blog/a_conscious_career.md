@@ -12,9 +12,8 @@ seo:
   title: A Conscious Career
   description: >-
     Spend the time to consciously think about your next pursuit. Who are you?
-    What do you want?.
-
-    Understanding this will help you find an environment that suits you best.
+    What do you want?. Understanding this will help you find an environment that
+    suits you best.
   robots: []
   extra: []
 layout: post
