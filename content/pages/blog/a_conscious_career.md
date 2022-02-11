@@ -5,7 +5,6 @@ subtitle: >-
   do you want?. Understanding this will help you find an environment that suits
   you best.
 date: '2022-02-11'
-image_alt: lorem-ipsum
 excerpt: Who are you? What do you want?
 seo:
   title: A Conscious Career
