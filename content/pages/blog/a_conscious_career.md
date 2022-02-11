@@ -15,12 +15,38 @@ seo:
   extra: []
 layout: post
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+### ABOUT THIS BLOG
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+My pet peeve is fluffy, generic advice. *Network more, practice communication skills.*
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Why, how, with whom? These are the questions I seek and discuss in my blog. The minutia. The nitty-gritty. Not unuseful wisdom without specificity.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+As an aside, check out Slavoj Žižek’s thoughts on why he’s against wisdom: <https://www.youtube.com/watch?v=tKoGQpEkpO0>
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Another aside, Tim Ferriss does a great job at breaking down top performers’ mental models and frameworks with which they see the world, I’ve found it very useful.
+
+# Why the need for conscious career searching?
+
+A third of your life will be spent at work. It’s the biggest investment you’ll make. Being a part of a team and organisation which truly resonates with you will ensure that you’re happier and more productive. Plus a feeling of accomplishment that you’re a part of a movement to create a better and happier world.
+
+Some of my friends spend hours reading through company financials to effectively invest their salaries. I’d rather spend that time ensuring I’m working for a cause that aligns with my values, alongside incredible people, where I’m constantly growing.
+
+# Top performers are conscious
+
+In interacting and watching videos of top students who get accepted in top-end Universities, I noticed their conscious decision making in accepting (or declining!) an offer. They take the time to consider whether a particular environment would set them up for success. Contrast that with someone who simply accepts the first offer which comes their way (Me!).
+
+Growing up, I was always wowed by elite students in elite schools. A leafy Ivy on your resume sounds nice, doesn’t it? After interacting with them during my Undergrad, what separated them was their inclination to consciously choose the right environment for them. A Harvard student often doesn’t choose Harvard *just cause.* They know themselves and try to determine whether Harvard would be the right environment **for them.**
+
+A peer I met from a top Californian school declined a 6 figure Graduate offer from an aerospace firm. They instead opted to pursue a research role in quantum computing instead. Perhaps she understood the market landscape and where quantum computing’s headed towards. The fact that there’d be more long-term potential being an early mover in a cutting-edge space.
+
+Contrast this with taking a highly compensated role, in a niche sub-section of engineering. Or maybe she’d just rather work bits, bytes and quants instead of jet engines. Who knows.
+
+The point is, consciously think about what you do. You’d take the time to think about purchasing a house, or your spouse. Do the same with your career.
+
+# Knowing what you want
+
+Early on in your career, you might want to optimise for growth/skill acquisition. Perhaps try working in a different continent. Later on, you might optimise for good management, autonomy and doing impactful work to leave a legacy. Whatever you’re optimising for, it’s important to be conscious of it and be able to communicate it.
+
+# Buy, don't sell.
+
+Top performers don’t scour for schools or jobs with a mindset of selling their wares. They look for companies and schools to sell *to them.* This is how I recently approached my career in Tech Products. This shows that you know your strengths, personality, and what environment would suit you best. I discuss this more in *Link*
