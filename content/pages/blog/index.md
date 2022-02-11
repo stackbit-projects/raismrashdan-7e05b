@@ -1,12 +1,10 @@
 ---
 title: Journal
 subtitle: >-
-  y pet peeve is fluffy, generic advice. Network more, practice communication
-  skills.
-
-  Why, how, with whom, in what language, at what time of day, what vitamins must
-  I ingest? These are the questions I seek, and discuss in my blog. The minutia.
-  The nitty gritty.
+  My pet peeve is fluffy, generic advice. Network more, practice communication
+  skills.Why, how, with whom, in what language, at what time of day, what
+  vitamins must I ingest? These are the questions I seek, and discuss in my
+  blog. The minutia. The nitty gritty.
 hide_title: false
 col_number: three
 seo:
