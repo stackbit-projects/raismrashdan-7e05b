@@ -20,6 +20,10 @@ seo:
       value: A Conscious Career
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: A Conscious Career
+      keyName: property
+      relativeUrl: false
 layout: post
 ---
 ### ABOUT THIS BLOG
