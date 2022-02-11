@@ -19,9 +19,7 @@ thumb_image: /images/photo-1502444330042-d1a1ddf9bb5b.jpeg
 ---
 ### ABOUT THIS BLOG
 
-My pet peeve is fluffy, generic advice. *Network more, practice communication skills.*
-
-Why, how, with whom? These are the questions I seek and discuss in my blog. The minutia. The nitty-gritty. Not unuseful wisdom without specificity.
+My pet peeve is fluffy, generic advice. Network more, practice communication skills. Why, how, with whom? These are the questions I seek and discuss in this Journal. The minutia. The nitty-gritty. Not unuseful advice without specificity.
 
 As an aside, check out Slavoj Žižek’s thoughts on why he’s against wisdom: <https://www.youtube.com/watch?v=tKoGQpEkpO0>
 
@@ -55,4 +53,4 @@ Early on in your career, you might want to optimise for growth/skill acquisition
 
 Top performers don’t scour for schools or jobs with a mindset of selling their wares. They look for companies and schools to sell *to them.* This is how I recently approached my career in Tech Products. This shows that you know your strengths, personality, and what environment would suit you best. I discuss this more in *Link*
 
-**![](https://images.unsplash.com/photo-1620662736427-b8a198f52a4d?ixlib=rb-1.2.1\&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&auto=format\&fit=crop\&w=1000\&q=80)
+\*\*![](https://images.unsplash.com/photo-1620662736427-b8a198f52a4d?ixlib=rb-1.2.1\&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&auto=format\&fit=crop\&w=1000\&q=80)
