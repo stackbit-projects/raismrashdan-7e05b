@@ -27,7 +27,7 @@ seo:
         tempor incididunt
       keyName: property
     - name: 'og:image'
-      value: images/post-4.jpg
+      value: /images/photo-1502444330042-d1a1ddf9bb5b.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
