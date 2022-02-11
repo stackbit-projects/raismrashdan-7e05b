@@ -9,7 +9,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
-  title: ''
+  title: A Conscious Career
   description: ''
   robots: []
   extra: []
