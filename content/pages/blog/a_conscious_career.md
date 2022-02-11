@@ -16,10 +16,6 @@ seo:
     suits you best.
   robots: []
   extra:
-    - name: 'og:image'
-      value: A Conscious Career
-      keyName: property
-      relativeUrl: true
     - name: 'og:title'
       value: A Conscious Career
       keyName: property
