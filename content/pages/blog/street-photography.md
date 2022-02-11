@@ -42,7 +42,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-# TL;DR: Spend the time to **consciously** think about your career. What you want, and how an organisation aligns to that.
+### TL;DR: Spend the time to **consciously** think about your career. What you want, and how an organisation aligns to that.
 
 ###### ABOUT THIS BLOG
 
@@ -60,7 +60,7 @@ A third of your life will be spent at work. It’s the biggest investment you’
 
 Some of my friends spend hours reading through company financials to effectively invest their salaries. I’d rather spend that time ensuring I’m working for a cause that aligns with my values, alongside incredible people, where I’m constantly growing.
 
-# Top performers are conscious 
+# Top performers are conscious
 
 In interacting and watching videos of top students who get accepted in top-end Universities, I noticed their conscious decision making in accepting (or declining!) an offer. They take the time to consider whether a particular environment would set them up for success. Contrast that with someone who simply accepts the first offer which comes their way (Me!).
 
@@ -79,4 +79,3 @@ Early on in your career, you might want to optimise for growth/skill acquisition
 # Buy, don't sell.
 
 Top performers don’t scour for schools or jobs with a mindset of selling their wares. They look for companies and schools to sell *to them.* This is how I recently approached my career in Tech Products. This shows that you know your strengths, personality, and what environment would suit you best. I discuss this more in \*Link\*
-
