@@ -4,8 +4,9 @@ subtitle: >-
   My pet peeve is fluffy, generic advice. Network more, practice communication
   skills.
 
-  Why, how, with whom? These are the questions I seek and discuss in my blog.
-  The minutia. The nitty-gritty. Not unuseful advice without specificity.
+  Why, how, with whom? These are the questions I seek and discuss in this
+  Journal. The minutia. The nitty-gritty. Not unuseful advice without
+  specificity.
 hide_title: false
 col_number: two
 seo:
