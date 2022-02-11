@@ -11,8 +11,9 @@ image_alt: White concrete building
 seo:
   title: Why consciously choosing a team which is a good fit for you important?
   description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt
+    Spend the time to consciously think about your next pursuit. Who you are,
+    what you want. Understanding this will help you find an environment that
+    suits you best.
   extra:
     - name: 'og:type'
       value: article
