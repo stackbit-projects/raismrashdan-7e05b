@@ -12,7 +12,7 @@ seo:
   extra: []
 layout: post
 ---
-# **Why?**
+# Why?
 
 Having a great first impression with a line manager can give you an incredible advantage. These include:
 
@@ -24,7 +24,7 @@ Having a great first impression with a line manager can give you an incredible a
 
 ![](https://images.unsplash.com/photo-1565688534245-05d6b5be184a?ixlib=rb-1.2.1\&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&auto=format\&fit=crop\&w=1000\&q=80)
 
-# **How?**
+# How?
 
 Communicate who you are and what you’re looking for, clearly. Practice your “sales pitch" with peers: why you want this role, what's your unique journey which will make you a great fit for the role. See Conscious \*Link\*
 
@@ -32,7 +32,7 @@ Seek to understand the role in its entirety and determine whether the role align
 
 Ask what a strong candidate would look like. Ask what a weak candidate would look like. If you're up for it, be direct and ask what failed interviewers were missing in their skillset.
 
-# **Understanding the role**
+# Understand the role
 
 What's the main paint point the role solves. I always ask that on first talking to a hiring manager. Chances are, the job ad was written by HR, and it might not truly encompass the hiring manager's vision.
 
