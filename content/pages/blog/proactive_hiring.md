@@ -16,7 +16,7 @@ layout: post
 
 Having a great first impression with a line manager can give you an incredible advantage. These include:
 
-*   Your resume goes to the top of the pile.  A hiring manager has to balance their time-consuming day activities as *well as* look over a heap of resumes. Being able to shortlist one extra resume makes it easy for them. As a general rule, try to understand other people's perspectives (the line manager in this instance), and make their life as easy as possible. All whilst getting what you want!
+*   Your resume goes to the top of the pile.  A hiring manager has to balance their time-consuming day activities as *well as* look over a heap of resumes. Being able to shortlist one extra resume makes their lives that much easier. As a general rule, try to understand other people's perspectives (the line manager in this instance), and make their life as easy as possible. All whilst getting what you want!
 
 *   You don't waste your time (and theirs). You'll get a sense of what they're *really* looking for in the role and potentially your future boss. It's best to learn that from the get-go, as opposed to further down the application process timeline. That'll help you narrow down your job-hunting prospects
 
