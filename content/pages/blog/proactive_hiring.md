@@ -11,6 +11,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_image: /images/photo-1523966211575-eb4a01e7dd51.jpeg
 ---
 # Why?
 
