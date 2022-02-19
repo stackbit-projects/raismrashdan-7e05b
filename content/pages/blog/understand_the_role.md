@@ -4,7 +4,9 @@ subtitle: lorem-ipsum
 date: '2022-02-19'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  Trying to understand a role before applying ensures you only target jobs that
+  would be a great fit for you
 seo:
   title: ''
   description: ''
