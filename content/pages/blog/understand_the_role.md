@@ -13,6 +13,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_image: /images/photo-1544939010-d47b4522add6.jpeg
 ---
 Trying to understand a role before applying ensures you only target jobs that would be a great fit for you
 
