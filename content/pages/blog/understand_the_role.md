@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Understand the role
 subtitle: lorem-ipsum
 date: '2022-02-19'
 thumb_image_alt: lorem-ipsum
