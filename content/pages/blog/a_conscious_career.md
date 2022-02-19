@@ -15,7 +15,7 @@ seo:
   robots: []
   extra: []
 layout: post
-thumb_image: /images/photo-1502444330042-d1a1ddf9bb5b.jpeg
+thumb_image: /images/photo-1510034141778-a4d065653d92.jpeg
 ---
 ### ABOUT THIS BLOG
 
