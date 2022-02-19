@@ -1,5 +1,5 @@
 ---
-title: Call me maybe? - hiring manager
+title: Call me maybe?
 subtitle: Proactively approach hiring managers
 date: '2022-02-11'
 thumb_image_alt: lorem-ipsum
