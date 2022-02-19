@@ -17,7 +17,7 @@ seo:
 layout: post
 thumb_image: /images/photo-1510034141778-a4d065653d92.jpeg
 ---
-### ABOUT THIS BLOG
+### ℹ️ ABOUT THIS BLOG
 
 My pet peeve is fluffy, generic advice. Network more, practice communication skills. Why, how, with whom? These are the questions I seek and discuss in this Journal. The minutia. The nitty-gritty. Not unuseful advice without specificity.
 
