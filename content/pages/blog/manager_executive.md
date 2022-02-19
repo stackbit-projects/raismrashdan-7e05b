@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Identifying great management
 subtitle: Ensuring that your line manager will support your role and growth.
 date: '2022-02-19'
 thumb_image_alt: lorem-ipsum
