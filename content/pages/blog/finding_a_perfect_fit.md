@@ -4,7 +4,9 @@ subtitle: 'Finding an org. which values Product and Users, and does so effective
 date: '2022-02-19'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  Finding a company which values the Product team, and developed its entire
+  strategy with Product and Users in mind
 seo:
   title: ''
   description: ''
