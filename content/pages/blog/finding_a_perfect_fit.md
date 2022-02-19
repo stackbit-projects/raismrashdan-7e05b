@@ -12,7 +12,9 @@ seo:
   extra: []
 layout: post
 ---
-Athletes are the stars of a sporting organisation. The water boy might be invaluable to the success of the organisation, but the athletes themselves will always be the most valued people within the org. Hence my journey to find an org. where the Product team are the athletes. A company which valued the Product team, and developed its entire strategy with Product and Users in mind. Moreover, I sought an org. which utilised best practices in developing Products. A valued but dysfunctional Product team is still undesirable. This is how I did it.
+Athletes are the stars of a sporting organisation. The water boy might be invaluable to the success of the organisation, but the athletes themselves will always be the most valued people within the org. Hence my journey to find an org. where the Product team are the athletes.
+
+A company which valued the Product team, and developed its entire strategy with Product and Users in mind. Moreover, I sought an org. which utilised best practices in developing Products. A valued but dysfunctional Product team is still undesirable. This is how I did it.
 
 ### ABOUT THIS BLOG
 
@@ -38,11 +40,9 @@ My line of questioning is as below, split into two parts:
 
     *   Are they proactive/supportive in developing talent?
 
-
         *   Are their ex-staff go doing incredible things right after they depart? This shows the company (or a specific leader) engrains a culture of talent development and develops world-class talent.
 
     *   What’s the turnover rate?
-
 
         *   A proxy for this is to check how long talent stays via LinkedIn.
 
@@ -52,13 +52,11 @@ My line of questioning is as below, split into two parts:
 
     *   What best practices are used in the Product and Development teams?
 
-
         *   Frameworks
 
         *   Change management
 
         *   Scope creep and non-priority creep - how do you shield the team from it?
-
 
             *   This question also helps you understand how your future manager leads and protects the team
 
@@ -68,29 +66,23 @@ My line of questioning is as below, split into two parts:
 
     *   What’d be my ideal vs. realistic day if I’m successful
 
-
         *   Product activities are generally split into two activities: Research and Management. I didn’t want to be in a space where I was bogged down with busywork - writing presentations or being a digital gopher. I wanted to have a lot of space to research and think about how we could create or improve products.
 
     *   Ensure that various stakeholders are brought into the product development process early on. A product team which builds products without consulting development, legal, support and sales is not a great way of working.
 
-
         *   Ask how pieces of work are developed in the product team, and how it’s passed on.
-
 
             *   You’re looking for cross-team collaboration and not simply writing up pieces of work, and throwing it over the fence to the next team.
 
         *   Can you tell me about your early-stage product development process?
 
-
             *   Here you're looking for signals that they speak to users early on to get feedback and then iterate
 
     *   Was there a time when the product received positive/negative feedback from users? What did the product team do about it?
 
-
         *   Can they point to a specific time when they heard user feedback and responded
 
     *   Have you ever had to pivot your product? Why?
-
 
         *   Again, looking for a sense that they are open to external feedback and willing to change the product]
 
