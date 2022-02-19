@@ -1,5 +1,5 @@
 ---
-title: Be an athlete in the org
+title: 'Be an athlete, not a water boy.'
 subtitle: lorem-ipsum
 date: '2022-02-19'
 thumb_image_alt: lorem-ipsum
