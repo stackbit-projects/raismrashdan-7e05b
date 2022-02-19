@@ -13,6 +13,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_image: /images/photo-1475178278683-8c225ae5ec3e.jpeg
 ---
 Athletes are the stars of a sporting team. The water boy might be invaluable to the success of the organisation, but the athletes themselves will always be the most valued people within the org. Hence my journey to find an org. where the Product team are the athletes.
 
