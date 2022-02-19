@@ -1,5 +1,5 @@
 ---
-title: 'Being an athlete '
+title: Being an athlete in the org
 subtitle: lorem-ipsum
 date: '2022-02-19'
 thumb_image_alt: lorem-ipsum
