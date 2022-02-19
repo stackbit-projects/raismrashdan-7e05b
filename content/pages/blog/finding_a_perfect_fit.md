@@ -1,6 +1,6 @@
 ---
 title: 'Be an athlete, not a water boy.'
-subtitle: lorem-ipsum
+subtitle: 'Finding an org. which values Product and Users, and does so effectively'
 date: '2022-02-19'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
