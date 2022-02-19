@@ -12,9 +12,9 @@ seo:
   extra: []
 layout: post
 ---
-Athletes are the stars of a sporting organisation. The water boy might be invaluable to the success of the organisation, but the athletes themselves will always be the most valued people within the org. Hence my journey to find an org. where the Product team are the athletes.
+Athletes are the stars of a sporting team. The water boy might be invaluable to the success of the organisation, but the athletes themselves will always be the most valued people within the org. Hence my journey to find an org. where the Product team are the athletes.
 
-A company which valued the Product team, and developed its entire strategy with Product and Users in mind. Moreover, I sought an org. which utilised best practices in developing Products. A valued but dysfunctional Product team is still undesirable. This is how I did it.
+A company that valued the Product team, and developed its entire strategy with Product and Users in mind. Moreover, I sought an org. which utilised best practices in developing Products. A valued but dysfunctional Product team is still undesirable. This is how I did it.
 
 #### ℹ️ ABOUT THIS BLOG
 
