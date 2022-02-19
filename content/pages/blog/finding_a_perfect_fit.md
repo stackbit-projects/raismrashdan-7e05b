@@ -88,7 +88,7 @@ My line of questioning is as below, split into two parts:
 
     *   Ultimately you're trying to get a specific example of the product team being open to hearing from users and then acting on that feedback.
 
-# 🌲 Some teams are like trees.
+# 🌲 Some teams are like trees
 
 They take forever to grow up. (Im)maturity of an organisation is worth examining. Most of the org, not just the Product team. A mature, high functioning Product team would go nowhere without an equally effective Development team (or Sales, Communications, etc.).
 
