@@ -11,6 +11,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_image: /images/photo-1492366254240-43affaefc3e3.jpeg
 ---
 There will be two layers of management pertinent to your role: your direct line manager (more pertinent) and the general Product business unit management. Ensure that your line manager will support your role and growth. Verify that the Product Executive (GM of Product/CPO/CTO) is a champion for product and users at the Board, and that they have the Board’s support.
 
