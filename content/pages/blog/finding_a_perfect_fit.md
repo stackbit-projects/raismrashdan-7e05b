@@ -16,7 +16,7 @@ Athletes are the stars of a sporting organisation. The water boy might be invalu
 
 A company which valued the Product team, and developed its entire strategy with Product and Users in mind. Moreover, I sought an org. which utilised best practices in developing Products. A valued but dysfunctional Product team is still undesirable. This is how I did it.
 
-### ABOUT THIS BLOG
+#### ℹ️ ABOUT THIS BLOG
 
 My pet peeve is fluffy, generic advice. *Network more, practice communication skills.*
 
@@ -26,7 +26,7 @@ As an aside, check out Slavoj Žižek’s thoughts on why he’s against wisdom:
 
 Another aside, Tim Ferriss does a great job at breaking down top performers’ mental models and frameworks with which they see the world, I’ve found it very useful.
 
-# Be an athlete
+# 🤸 Be an athlete
 
 Contrast a Data Scientist working for YouTube, as opposed to the New York Knicks. The former org. is highly dependent on the Data Scientist to develop a good algorithm for YouTube. The latter meanwhile, only uses the Data Scientist to support their main stars, which are the athletes themselves. Ensure **you’re** the athlete in an organisation.
 
@@ -88,9 +88,9 @@ My line of questioning is as below, split into two parts:
 
     *   Ultimately you're trying to get a specific example of the product team being open to hearing from users and then acting on that feedback.
 
-# Some teams are like trees. They take forever to grow up.
+# 🌲 Some teams are like trees.
 
-(Im)maturity of an organisation is worth examining. Most of the org, not just the Product team. A mature, high functioning Product team would go nowhere without an equally effective Development team (or Sales, Communications, etc.).
+They take forever to grow up. (Im)maturity of an organisation is worth examining. Most of the org, not just the Product team. A mature, high functioning Product team would go nowhere without an equally effective Development team (or Sales, Communications, etc.).
 
 There are various stages of Product teams, all with their strengths and weaknesses. An APM at a well developed FAANG will have vastly different challenges to a PM at a 3-women start-up. Only you can determine what fits you best.
 
